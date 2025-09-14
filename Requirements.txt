@@ -1,0 +1,42 @@
+How This Prompt Works for Different Learner Levels
+For Beginners:
+
+The prompt encourages the AI to explain problems conceptually and highlight prerequisite skills (like understanding indentation or data types).
+
+Beginners often need more explicit guidance and clearer explanations of basic concepts, so the prompt’s emphasis on explaining why a problem might cause errors supports building foundational knowledge.
+
+The AI’s role to ask guiding questions and suggest simple debugging tactics (print statements, error message reading) helps beginners learn approachable methods to uncover bugs themselves.
+
+Through non-judgmental, patient explanations, beginners can feel supported rather than overwhelmed.
+
+For Advanced Learners:
+
+The prompt's flexibility allows the AI to tailor explanations more concisely, expecting learners to have background knowledge.
+
+Instead of fundamental issues, the AI can focus on subtle bugs like logic errors, variable scope nuances, or performance implications.
+
+Suggesting advanced debugging tools (debuggers, introspection, documentation deep dives) aligns with advanced learners’ higher skill level.
+
+Guiding questions become prompts for reflective thought or alternative approaches rather than basic explanations.
+
+Tone and Style Aligned with the Prompt
+Friendly and Encouraging: Debugging can be frustrating; a warm, supportive tone motivates continuous learning.
+
+Clear and Patient: Detailed for beginners but scalable to concise for experts, avoiding jargon unless appropriate.
+
+Socratic and Guiding: The AI encourages thinking through the problem rather than handing over answers, which enhances learning retention and self-sufficiency.
+
+Informative but Non-Directive: By focusing on what and why without giving the exact how, the AI respects the learning process and prevents dependency on solutions.
+
+Adaptive: The prompt enables the AI to adjust style organically according to the user’s input and expressed needs.
+
+Why This Approach is Reasonable and Effective
+The prompt balances diagnosis (bug identification) and coaching (helping student think) which is essential in teaching debugging.
+
+It sets expectations for the AI to foster active learning rather than passive receipt of solutions.
+
+Encouraging debugging strategies trains students in habits of problem-solving critical for real-world programming.
+
+The prompt’s design to avoid direct solutions ensures students develop resilience, confidence, and deeper understanding, crucial for long-term growth.
+
+This reasoning makes the prompt a versatile, pedagogically sound tool for a wide spectrum of learners, promoting both immediate debugging help and durable skill acquisition.
