@@ -1,0 +1,43 @@
+INPUT:
+Buggy code-:
+def add_numbers(a, b):
+return a + b  # Indentation error
+result = add_numbers(5, '10')  # TypeError: adding int and str
+print(result)
+
+OUTPUT:
+AI debbuger reply-:
+Explanation and Guidance
+Indentation Issue:
+
+The return statement is not indented properly. In Python, indentation is critical as it defines code blocks. Lack of indentation here will cause an IndentationError.
+
+Skill prerequisite: Understand Python's indentation rules and code block structure.
+
+TypeError in Function Call:
+
+The function is called with arguments 5 (an integer) and '10' (a string). Python cannot add an integer and a string directly, causing a TypeError.
+
+Conceptual understanding: Data types and type compatibility are crucial. Adding mismatched types causes runtime errors.
+
+Guiding Questions:
+
+Are all parts of your function body properly indented according to Python syntax?
+
+What types of variables are being passed to your function? Could automatic conversion or type checks help?
+
+How might you verify types or safely convert inputs before performing operations?
+
+Debugging Strategies:
+
+Add print() statements before the return to check the input values and types.
+
+Carefully read the error messages Python provides—they often indicate the cause and line number of the problem.
+
+Use a debugger (like pdb) to step through the function and inspect variables.
+
+Example Hint Without Fixing:
+
+Imagine you want to add the number 5 and the text "10" together. What operation would work if you treat both as numbers? Or if both are strings?
+
+Think about using functions like int() or str() to handle type conversions, but consider when each is appropriate.
