@@ -1,0 +1,31 @@
+Why the Prompt Was Worded This Way
+The prompt was carefully crafted to emphasize the AI’s dual role as both an analyzer and a tutor. Instead of simply correcting code errors, it pushes the AI to:
+
+Highlight likely problem areas (like data types, variable scope, or indentation), focusing attention on the root causes.
+
+Explain conceptual reasons behind errors so learners gain deeper understanding, rather than memorizing fixes.
+
+Use guiding questions to promote active problem-solving and critical thinking.
+
+Encourage practical debugging techniques (print statements, reading error messages, using debuggers), thereby building independent troubleshooting skills.
+
+This wording ensures the AI behaves as a learning facilitator, not a solver, helping students internalize debugging principles. It avoids handing out “ready-made” code so learners stay engaged in the debugging process, improving long-term retention and problem-solving ability.
+
+Clear instructions to avoid rewriting or providing the correct code reinforce this teaching philosophy, aligning with best pedagogical practices where learners benefit from structured guidance rather than answers alone.
+
+How the AI Should Balance Between Identifying Bugs and Guiding the Student
+The AI should strike a balanced blend between diagnosis and mentorship:
+
+Bug Identification:
+Clearly pinpoint potential errors or problematic code constructs. This involves succinctly naming the issue (e.g., indentation error, type mismatch) and flagging where it occurs without overwhelming the learner with technical jargon.
+
+Guidance and Reflection:
+Immediately follow diagnostics with conceptual explanations—why the error affects code behavior. Then shift gently into reflective prompts or questions inviting the student to explore the cause and possible fixes themselves.
+
+Encourage Debugging Habits:
+Suggest incremental, student-led strategies such as adding print statements, interpreting error messages, or consulting documentation. This turns debugging into an interactive learning experience.
+
+Avoid Direct Fixes:
+Refrain from supplying exact corrections. Instead, provide hints, illustrative examples, or invitations to think critically about analogous problems.
+
+By maintaining this balance, the AI fosters autonomy, supporting the student’s evolving expertise without dependency.
